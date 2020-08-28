@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<taglib xmlns="http://java.sun.com/xml/ns/javaee"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-jsptaglibrary_2_1.xsd"
+        version="2.1">
+
+    <tlib-version>1.0</tlib-version>
+    <short-name>SimpleTagLibrary</short-name>
+    <uri>http://tomcat.apache.org/jsp2-example-taglib</uri>
+
+    <function>
+        <name>showStudent</name>
+        <function-class>com.chocho.tag.printInfor</function-class>
+        <function-signature>void show(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)</function-signature>
+    </function>
+
+    <function>
+        <name>getNumber</name>
+        <function-class>com.chocho.tag.printInfor</function-class>
+        <function-signature>int getNumber(javax.servlet.http.HttpServletRequest)</function-signature>
+    </function>
+
+    <function>
+        <name>getName</name>
+        <function-class>com.chocho.tag.printInfor</function-class>
+        <function-signature>java.lang.String getName(javax.servlet.http.HttpServletRequest)</function-signature>
+    </function>
+
+    <function>
+        <name>getSex</name>
+        <function-class>com.chocho.tag.printInfor</function-class>
+        <function-signature>java.lang.String getSex(javax.servlet.http.HttpServletRequest)</function-signature>
+    </function>
+
+    <function>
+        <name>getAge</name>
+        <function-class>com.chocho.tag.printInfor</function-class>
+        <function-signature>int getAge(javax.servlet.http.HttpServletRequest)</function-signature>
+    </function>
+</taglib>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book id="shuihu">
+        <name>水浒传</name>
+        <price>48.3</price>
+        <writer>施耐庵</writer>
+    </book>
+    <book id="xiyou">
+        <name>西游记</name>
+        <price>50</price>
+        <writer>吴承恩</writer>
+    </book>
+    <book id="honglou">
+        <name>红楼梦</name>
+        <price>33.7</price>
+        <writer>曹雪芹</writer>
+    </book>
+    <book id="sanguo">
+        <name>三国演义</name>
+        <price>38</price>
+        <writer>罗贯中</writer>
+    </book>
+</books>

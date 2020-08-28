@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SMS:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="423fde2d-8d67-4f1e-9b38-3b187081f0fb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SMS" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="jsf" />
+        <option value="Jspx File" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+        <option value="Jsp File" />
+        <option value="HTML File" />
+        <option value="Tag Library Descriptor" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1PflL2wfWbx4G5tmoO4rFSpWIz2" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JAVA\SMS\web\WEB-INF\view\images" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chocho.Dao" />
+      <recent name="com.chocho.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JAVA\SMS\web" />
+      <recent name="E:\JAVA\SMS\web\WEB-INF" />
+      <recent name="E:\JAVA\SMS\web\WEB-INF\view\images" />
+      <recent name="E:\JAVA\SMS\web\easyui\images" />
+      <recent name="E:\JAVA\SMS\web\WEB-INF\view" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.43">
+    <configuration name="HandleLargeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chocho.others.HandleLargeNumber" />
+      <module name="SMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chocho.others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chocho.others.Hello" />
+      <module name="SMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chocho.others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputChinese" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chocho.others.InputChinese" />
+      <module name="SMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chocho.others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chocho.Dao.Main" />
+      <module name="SMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chocho.Dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryServlet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chocho.Servlet.QueryServlet" />
+      <module name="SMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chocho.Servlet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.43" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.43" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8001/CHOCHO-SMS" />
+      <option name="BROWSER_ID" value="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="SMS:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/CHOCHO-SMS" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_43_SMS" />
+        <option name="HTTP_PORT" value="8001" />
+        <option name="JNDI_PORT" value="8002" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54272" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SMS:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Hello" />
+      <item itemvalue="Application.QueryServlet" />
+      <item itemvalue="Application.InputChinese" />
+      <item itemvalue="Application.HandleLargeNumber" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.43" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HandleLargeNumber" />
+        <item itemvalue="Application.InputChinese" />
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.QueryServlet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="423fde2d-8d67-4f1e-9b38-3b187081f0fb" name="Default Changelist" comment="" />
+      <created>1566272971548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566272971548</updated>
+      <workItem from="1566272973724" duration="15453000" />
+      <workItem from="1566296357978" duration="6971000" />
+      <workItem from="1566345417353" duration="6016000" />
+      <workItem from="1566352326515" duration="10620000" />
+      <workItem from="1566370832222" duration="12875000" />
+      <workItem from="1566564004312" duration="4317000" />
+      <workItem from="1566575170402" duration="361000" />
+      <workItem from="1566783116679" duration="6932000" />
+      <workItem from="1566800897997" duration="10921000" />
+      <workItem from="1566990513397" duration="596000" />
+      <workItem from="1566995464849" duration="10820000" />
+      <workItem from="1567043697401" duration="10896000" />
+      <workItem from="1567067483126" duration="2222000" />
+      <workItem from="1567134177945" duration="5766000" />
+      <workItem from="1567243866767" duration="10829000" />
+      <workItem from="1567313760293" duration="9567000" />
+      <workItem from="1567413820353" duration="1631000" />
+      <workItem from="1567510475081" duration="6871000" />
+      <workItem from="1567524470932" duration="160000" />
+      <workItem from="1567599282908" duration="3573000" />
+      <workItem from="1567684512346" duration="4171000" />
+      <workItem from="1567757218758" duration="6396000" />
+      <workItem from="1567776657168" duration="2425000" />
+      <workItem from="1567821001261" duration="6235000" />
+      <workItem from="1567835771755" duration="7496000" />
+      <workItem from="1567871670253" duration="5652000" />
+      <workItem from="1567901768819" duration="4599000" />
+      <workItem from="1567943619869" duration="3151000" />
+      <workItem from="1568026653601" duration="100000" />
+      <workItem from="1568168488776" duration="184000" />
+      <workItem from="1568206672401" duration="804000" />
+      <workItem from="1568391120749" duration="281000" />
+      <workItem from="1568391487749" duration="46000" />
+      <workItem from="1568596768496" duration="1157000" />
+      <workItem from="1568603907392" duration="318000" />
+      <workItem from="1568615463727" duration="1302000" />
+      <workItem from="1568686288884" duration="293000" />
+      <workItem from="1568765921174" duration="2250000" />
+      <workItem from="1568863619171" duration="1110000" />
+      <workItem from="1569066145925" duration="1366000" />
+      <workItem from="1569122512382" duration="72000" />
+      <workItem from="1569138947497" duration="1123000" />
+      <workItem from="1569150196245" duration="3257000" />
+      <workItem from="1569251541716" duration="131000" />
+      <workItem from="1569366115495" duration="712000" />
+      <workItem from="1569370988384" duration="1061000" />
+      <workItem from="1569399944483" duration="1603000" />
+      <workItem from="1569413051081" duration="18000" />
+      <workItem from="1569420141484" duration="4380000" />
+      <workItem from="1569465041972" duration="2830000" />
+      <workItem from="1569732928531" duration="40000" />
+      <workItem from="1569734214502" duration="2447000" />
+      <workItem from="1569754060892" duration="744000" />
+      <workItem from="1569916200476" duration="1442000" />
+      <workItem from="1570259665337" duration="512000" />
+      <workItem from="1570278753559" duration="1872000" />
+      <workItem from="1570289231685" duration="785000" />
+      <workItem from="1570295050423" duration="9304000" />
+      <workItem from="1570433167518" duration="1606000" />
+      <workItem from="1570449930136" duration="5173000" />
+      <workItem from="1570534454434" duration="1980000" />
+      <workItem from="1570540189532" duration="221000" />
+      <workItem from="1570614636641" duration="5565000" />
+      <workItem from="1570895309866" duration="1300000" />
+      <workItem from="1571411349951" duration="137000" />
+      <workItem from="1571411621628" duration="1168000" />
+      <workItem from="1572950629610" duration="293000" />
+      <workItem from="1574438444579" duration="3698000" />
+      <workItem from="1574716066253" duration="1589000" />
+      <workItem from="1575253097901" duration="259000" />
+      <workItem from="1575269841355" duration="27000" />
+      <workItem from="1577813887878" duration="785000" />
+      <workItem from="1577894860998" duration="639000" />
+      <workItem from="1577895788252" duration="73000" />
+      <workItem from="1578895708518" duration="1218000" />
+      <workItem from="1578902293783" duration="853000" />
+      <workItem from="1579187687460" duration="284000" />
+      <workItem from="1579266479245" duration="1152000" />
+      <workItem from="1581345111164" duration="574000" />
+      <workItem from="1581347817990" duration="235000" />
+      <workItem from="1581422959882" duration="1226000" />
+      <workItem from="1581426419083" duration="305000" />
+      <workItem from="1581523443609" duration="110000" />
+      <workItem from="1581523668574" duration="147000" />
+      <workItem from="1583888155747" duration="2669000" />
+      <workItem from="1583891685015" duration="208000" />
+      <workItem from="1583898864088" duration="259000" />
+      <workItem from="1584801082030" duration="749000" />
+      <workItem from="1592560143714" duration="638000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="number" />
+        <watch expression="number" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
